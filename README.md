@@ -1,4 +1,4 @@
-# Learning-C-Sharp
+# C# Fundamentals
 
 ### Create Gitignore file
 ```powershell
