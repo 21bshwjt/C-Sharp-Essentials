@@ -1,4 +1,4 @@
-## This is an example of basic UNIt Test.
+## This is an example of basic Unit Test.
 ### Unit Test
 ```powershell
 aaa : arrange ,act & assert
