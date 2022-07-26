@@ -1,4 +1,4 @@
-# C#-Essentials
+# C# Essentials
 
 ### Create Gitignore file
 ```powershell
